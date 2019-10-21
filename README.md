@@ -1,5 +1,5 @@
 # Databases Project SQL 
-([SqLZoo.net](https://sqlzoo.net/wiki/Main_Page)
+[SqLZoo.net](https://sqlzoo.net/wiki/Main_Page)
 
  
 * Built queries with existing tables
